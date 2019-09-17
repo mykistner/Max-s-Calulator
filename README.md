@@ -1,2 +1,2 @@
-# Max-s-Calulator
+# Max's Calulator
 Basic Accounting Calculator
